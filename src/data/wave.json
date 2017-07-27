@@ -1,0 +1,22 @@
+[
+  {
+    "name": "pacific",
+    "percentage": 80
+  },
+  {
+    "name": "atlantic",
+    "percentage": 10
+  },
+  {
+    "name": "arctic",
+    "percentage": 43
+  },
+  {
+    "name": "indian",
+    "percentage": 24
+  },
+  {
+    "name": "southern",
+    "percentage": 18
+  }
+]

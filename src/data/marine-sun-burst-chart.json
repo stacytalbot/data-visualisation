@@ -1,0 +1,61 @@
+{
+  "name": "uses",
+  "children": [
+    {
+      "name": "academic research",
+      "size": 2316
+    },
+    {
+      "name": "management",
+      "size": 646
+    },
+    {
+      "name": "research purposes",
+      "size": 562
+    },
+    {
+      "name": "habitat mapping",
+      "size": 439
+    },
+    {
+      "name": "biodiversity and exosystem analysis",
+      "size": 338
+    },
+    {
+      "name": "educational purposes",
+      "size": 219
+    },
+    {
+      "name": "unknown",
+      "size": 199
+    },
+    {
+      "name": "environmental mapping",
+      "size": 185
+    },
+    {
+      "name": "marine atlas",
+      "size": 79
+    },
+    {
+      "name": "blue carbon",
+      "size": 42
+    },
+    {
+      "name": "database",
+      "size": 28
+    },
+    {
+      "name": "valuation",
+      "size": 25
+    },
+    {
+      "name": "software development",
+      "size": 21
+    },
+    {
+      "name": "connectivity",
+      "size": 16
+    }
+  ]
+}

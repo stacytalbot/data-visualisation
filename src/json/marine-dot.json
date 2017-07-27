@@ -1,0 +1,65 @@
+{
+  "title": "Progress to date in coverage of protected areas",
+
+  "options": {
+    "dotQuota": 1000000
+  },
+
+  "data": [
+    {
+      "title": "17 million km2",
+      "year" : "2000",
+      "circle":1,
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 15000000
+        },
+        "marine": {
+          "achieved": 2000000
+        }
+      }
+    },
+    {
+      "title": "27 million km2",
+      "year" : "2010",
+      "circle": 2,
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 19000000
+        },
+        "marine": {
+          "achieved": 8000000
+        }
+      }
+    },
+    {
+      "title": "40.5 million km2",
+      "year" : "2017",
+      "circle":3,
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 20000000
+        },
+        "marine": {
+          "achieved": 20500000,
+          "target": 500000
+        }
+      }
+    },
+    {
+      "title": "59 million km2",
+      "year" : " Aim by 2020",
+      "circle":5,
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 20000000,
+          "target": 3000000
+        },
+        "marine": {
+          "achieved": 20000000,
+          "target": 16000000
+        }
+      }
+    }
+  ]
+}

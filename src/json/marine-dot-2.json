@@ -1,0 +1,62 @@
+{
+  "title": "This is a made up chart with some data",
+
+  "options": {
+    "dotQuota": 2
+  },
+
+  "data": [
+    {
+      "title": "32m2",
+      "year" : "1996",
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 10,
+          "target": 2
+        },
+        "marine": {
+          "achieved": 20
+        }
+      }
+    },
+    {
+      "title": "85m2",
+      "year" : "1997",
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 37
+        },
+        "marine": {
+          "achieved": 48
+        }
+      }
+    },
+    {
+      "title": "50m2",
+      "year" : "1998",
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 24,
+          "target": 12
+        },
+        "marine": {
+          "achieved": 12,
+          "target": 2
+        }
+      }
+    },
+    {
+      "title": "40m2",
+      "year" : "1999",
+      "categories" : {
+        "terrestrial" : {
+          "achieved": 2,
+          "target": 4
+        },
+        "marine": {
+          "achieved": 34
+        }
+      }
+    }
+  ]
+}

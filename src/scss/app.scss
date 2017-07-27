@@ -1,0 +1,15 @@
+// site layout
+$site-width: 1200px;
+
+// colours
+$grey-dark: #232323;
+$grey-medium: #565656;
+$grey-light: #cccccc;
+
+$blue: #3988e1;
+$green: #1bd9ac;
+
+.site-width {
+  margin: 0 auto;
+  width: $site-width;
+}
